@@ -1,0 +1,47 @@
+table ,td, tr, th {
+    border: 1px solid #000;
+text-align: center;
+margin: auto;
+}
+td, tr {
+    width: 400px;
+    height: 100px;
+}
+
+.my_table td {
+
+    font-size: 25px; 
+    text-align: center;
+}
+
+.header {
+
+    font-size:30px; 
+    background-color: rgb(47, 177, 133);
+}
+
+.main {
+    font-size:30px; 
+    background-color: aquamarine; 
+}
+
+.footer {
+
+    font-size:30px; 
+    background-color: rgb(127, 255, 127);
+}
+
+.title {
+
+    font-size: 25px; 
+    text-align: center; 
+    color: blue;
+}
+
+.year {
+
+    font-size: 25px; 
+    text-align: center; 
+    color: blue;
+}
+
